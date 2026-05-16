@@ -113,6 +113,7 @@ plt.show()
 
 <img width="937" height="656" alt="image" src="https://github.com/user-attachments/assets/a0c43b51-c22a-44d4-9b00-e228c1a8728a" />
 
+
 # Results
 Thus, The output waveform of PCM and DM is verfied successfully.
 
