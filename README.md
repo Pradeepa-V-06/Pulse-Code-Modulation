@@ -108,12 +108,8 @@ plt.show()
 
 ```
 # Output Waveform
-
 <img width="933" height="762" alt="image" src="https://github.com/user-attachments/assets/b8d6ca95-bb59-4d29-afcd-7af5508f0337" />
-
 <img width="937" height="656" alt="image" src="https://github.com/user-attachments/assets/a0c43b51-c22a-44d4-9b00-e228c1a8728a" />
-
-
 # Results
 Thus, The output waveform of PCM and DM is verfied successfully.
 
